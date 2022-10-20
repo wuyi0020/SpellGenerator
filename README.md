@@ -1,2 +1,4 @@
 # SpellGenerator
-stable diffusion
+stable diffusion AI prompt Generator
+SpellGenerator
+
