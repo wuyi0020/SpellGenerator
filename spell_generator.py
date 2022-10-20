@@ -143,17 +143,17 @@ class page_module(Frame):
         if ':' in self.data_list[_newselect]:
             self.spellTuple.append(_newselect)
             self.TextEnList.append(self.data_list[_newselect].split(':')[0])
-            print(self.data_list[_newselect])
+            #print(self.data_list[_newselect])
             
             
             if self.spellEn == '':
-                print('新增單字%s'%self.data_list[_newselect].split(':')[-1])
+                #print('新增單字%s'%self.data_list[_newselect].split(':')[-1])
                 self.spawn_result.insert(END,"%s, "%self.data_list[_newselect].split(':')[-1])
                 self.spawn_result2.insert(END,"%s, "%self.data_list[_newselect].split(':')[0])
                 #self.spellEn += self.data_list[_newselect].split(':')[-1]
                 #self.spellCh += self.data_list[_newselect].split(':')[0]
             else:
-                print('新增單字%s'%self.data_list[_newselect].split(':')[-1])
+                #print('新增單字%s'%self.data_list[_newselect].split(':')[-1])
                 self.spawn_result.insert(END,"%s, "%self.data_list[_newselect].split(':')[-1])
                 self.spawn_result2.insert(END,"%s, "%self.data_list[_newselect].split(':')[0])
                 #self.spellEn += ', ' + self.data_list[_newselect].split(':')[-1]
@@ -162,7 +162,7 @@ class page_module(Frame):
 
             #print(self.spellTuple)
             #print(self.spellList)
-            print("新字串:%s\n"%self.spellEn)
+            #print("新字串:%s\n"%self.spellEn)
             #self.spawn_result.delete(1.0, 'end')
             #self.spawn_result.insert(END, self.spellEn)
             #self.spawn_result2.delete(1.0, 'end')
@@ -171,19 +171,19 @@ class page_module(Frame):
     def del_word(self,event):
         delword = self.spawn_result.curselection()[0]
         s=self.spawn_result.get(delword)
-        print('刪除字串:%s'%s)
+        #print('刪除字串:%s'%s)
         self.spawn_result.delete(delword)
         self.spawn_result2.delete(delword)
 
     def del_wordCH(self,event):
         delword = self.spawn_result2.curselection()[0]
         s=self.spawn_result2.get(delword)
-        print('刪除字串:%s'%s)
+        #print('刪除字串:%s'%s)
         self.spawn_result.delete(delword)
         self.spawn_result2.delete(delword)
         
 
-    def CheckChange(self):
+    """def CheckChange(self):
         TextNow=self.spawn_result.get(1.0, 'end-1c')
         TextNowList=TextNow.split(', ')
         print("現在文字:%s"%TextNowList)
@@ -204,7 +204,7 @@ class page_module(Frame):
             print("英文沒變動\n")
         #if changepoint != 9999:
             #print(self.spellTuple)
-            #print(self.spellTuple[changepoint])
+            #print(self.spellTuple[changepoint])"""
 
             
         
@@ -222,16 +222,16 @@ class page_module(Frame):
         self.clipboard_append(K)
         
     def back_word(self):
-        lis = self.spellEn.split(', ')
-        lis2 = self.spellCh.split(', ')
-        del lis[-1]
-        del lis2[-1]
-        self.spellEn = ", ".join(lis)
-        self.spellCh = ", ".join(lis2)
-        self.spawn_result.delete(1.0, 'end')
-        self.spawn_result.insert(END, self.spellEn)
-        self.spawn_result2.delete(1.0, 'end')
-        self.spawn_result2.insert(END, self.spellCh)
+        #lis = self.spellEn.split(', ')
+        #lis2 = self.spellCh.split(', ')
+        #del lis[-1]
+        #del lis2[-1]
+        #self.spellEn = ", ".join(lis)
+        #self.spellCh = ", ".join(lis2)
+        self.spawn_result.delete(END)
+        #self.spawn_result.insert(END, self.spellEn)
+        self.spawn_result2.delete(END)
+        #self.spawn_result2.insert(END, self.spellCh)
         
 
     def import_set(self):
