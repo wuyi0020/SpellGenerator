@@ -1,0 +1,2 @@
+# SpellGenerator
+stable diffusion
