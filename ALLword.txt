@@ -1,0 +1,649 @@
+------圖片屬性------
+原畫:artbook
+遊戲CG:game_cg
+漫畫:comic
+四格:4koma
+gif格式圖片:animated_gif
+抱枕原畫:dakimakura
+角色扮演:cosplay
+穿越:crossover
+暗的:dark
+亮的:light
+晚上:night
+獵奇:guro
+寫實:realistic
+照片:photo
+真實:real
+風景:landscape/scenery
+城市風景:cityscape
+科技幻想:science_fiction
+原創:original
+拙劣的模仿:parody
+擬人:personification
+格子的:checkered
+低分辨率:lowres
+高分辨率:highres
+超高分辨率:absurdres
+極高分辨率:incredibly_absurdres
+超級高分辨率/大文件:huge_filesize
+壁紙:wallpaper
+點陣圖:pixel_art
+單色圖片:monochrome
+色彩斑斕的:colorful
+視覺錯誤:optical_illusion
+名畫模仿:fine_art_parody
+素描:sketch
+傳統媒體（基本上是手繪稿）:traditional_media
+透明水彩繪:watercolor_(medium)
+剪影:silhouette
+封面:covr
+專輯:album
+圖上有sample字樣:sample
+背影像:back
+半身像:bust
+側面繪:profile
+表情繪（各種表情）:expressions
+一部作品中的主要人物集齊:everyone
+一列列小圖組成大圖:column_lineup
+透明的背景(.png):transparent_background
+簡單的背景(無背景):simple_background
+漸變的背景:gradient_background
+背景是前景的放大版:zoom_layer
+英文:English
+中文:Chinese
+法文:French
+日本人:Japanese
+翻譯:translation_request
+ID轉向錯誤(原地址或已被刪除):bad_id
+圖片有一些上傳者未知的項目:tagme
+作者未知,需要補完:artist_request
+不知所謂:what
+------人物類型------
+女巫:Witch
+巫女:miko
+女僕:maid
+女服務員:waitress
+拉拉隊:cheerleader
+人偶:doll
+油庫裡（饅頭樣人物，東方系列）:yukkuri_shiteitte_ne
+忍者/日本武士:ninja
+修女:nun
+美人魚:mermaid
+小精靈:fairy
+妖精:elf
+天使:angel
+怪物:monster
+魔鬼（撒旦）:devil
+吸血鬼:vampire
+魔法少女:magical_girl
+魔幻少女(指有魔力的):multiple_girls
+獸人/半獸人:furry/orc
+男人:male
+女人:female
+女巨人:giantess
+迷你女孩:minigirl
+獸耳蘿莉模式:kemonomimi_mode
+Q版人物:chibi
+偽娘:trap/crossdressing
+熟女:milf
+正太:shota
+蘿莉:loli
+百合:yuri
+搞基:yaoi
+后宮:harem
+非人:no_humans
+單人:solo
+姐妹:sisters
+兄弟姐妹:siblings
+1個女人/男人:1girl/boys
+------人物表情------
+濃裝:makeup
+食物在臉上:food_on_face
+閉眼:eyes_closed
+眨眼:wink/blinking
+閉一隻眼:wince
+豎的瞳孔/貓眼:slit_pupils
+異色瞳:heterochromia
+愛心形瞳孔:heart-shaped_pupils
+拉眼皮吐舌鬼臉:eyelid_pull
+水汪汪的眼睛:aqua_eyes
+吊眼角:tsurime
+盯著看:eyeball
+眼淚:tears
+聞:smelling
+鼻血:nosebleed
+嘴唇:lips
+咬牙:clenched_teeth
+張口:open_mouth
+努嘴:pout
+嘆氣:sigh
+微笑:smile
+露齒而笑:grin
+凝視:stare
+生氣的:angry
+苦惱的:annoyed
+瘋狂的:crazy
+害羞的:shy
+尷尬的:embarrassed
+臉紅的:blush
+困乏的:sleepy
+悲傷的:sad
+喝醉的:drunk
+黑化的:dark_persona
+皺眉/蹙額:frown
+無表情的:expressionless
+下流的表情:naughty_face
+忍耐的表情:endured_face
+------人物形態------
+呆毛:ahoge
+劉海:bangs
+齊劉海:blunt_bangs
+捲髮:curly_hair
+鑽頭卷/公主卷:drill_hair
+包子頭:hair_bun
+包子頭(兩個):double_bun
+馬尾:ponytail
+短馬尾:short_ponytail
+側馬尾:side_ponytail
+雙馬尾:twintails
+凌亂髮型:messy_hair
+姬發式:hime_cut
+辮子:braid
+雙辮子:twin_braids
+長鬢角:payot
+波浪髮型:wavy_hair
+金發/金眼:blonde_hair/yellow_eyes
+銀髮/銀眼:silver_hair/silver_eyes
+灰髮/灰眼:grey_hair/grey_eyes
+白髮/白眼:white_hair/white_eyes
+棕髮/棕眼:brown_hair/brown_eyes
+黑髮/黑眼:black_hair/black_eyes
+紫發/紫眼:purple_hair/purple_eyes
+紅發/紅眼:red_hair/red_eyes
+藍髮/藍眼:blue_hair/blue_eyes
+綠髮/綠眼:green_hair/green_eyes
+短髮:short_hair
+長發:long_hair
+很長的頭髮:very_long_hair
+沒鼻子的:no_nose
+尖牙:fangs
+舌頭:tongue
+唾液:saliva
+動物耳朵:animal_ears
+狐狸耳朵:fox_ears
+兔耳:bunny_ears
+貓耳:cat_ears
+狗耳:dog_ears
+老鼠耳朵:mouse_ears
+尖耳:pointy_ears
+腋:armpit
+鎖骨:collarbone
+翅膀/翼:wings
+蝙蝠翅膀:bat_wings
+蝴蝶翅膀:butterfly_wings
+黑色之翼:black_wings
+惡魔之翼:demon_wings
+肌肉:muscle
+胸肌:chest
+胸部:breasts
+貧乳(A:flat_chest
+小胸部(B:small_breasts
+中等胸部(C:medium_breasts
+大胸部(D:large_breasts
+巨乳(E:huge_breasts
+魔乳(F:gigantic_breasts
+腹部:midriff
+肚臍:navel
+臀部:hips
+股溝:thigh_gap
+尾巴:tail
+大腿:thighs
+粗腿:thick_thighs
+膝蓋內側:kneepits
+腳:foot
+腳趾:toes
+獸角:horns
+曬日線:tan_lines
+男性臉部鬍鬚:facial_hair
+------人物姿勢動作狀態------
+勝利手勢:v
+翹大拇指:thumbs_up
+比出中指:middle_finger
+貓爪手勢:cat_pose
+手槍手勢:finger_gun
+噓手勢:shushing
+拿著:holding
+招手:waving
+敬禮:salute
+伸懶腰:stretch
+抬手:arms_up
+張手:spread_arms
+手放在嘴邊:hand_to_mouth
+拉頭髮:hair_pull
+舉手露腋:armpits
+屈膝禮:curtsy
+用手指做出笑臉:fingersmile
+手撐著頭:chin_rest
+用手支撐住:arm_support
+手放在身後:arms_behind_back
+手交叉於胸前:arms_crossed
+單手插腰:hand_on_hip
+雙手叉腰:hands_on_hips
+調整過膝襪:adjusting_thighhigh
+某著名伸手扭腰動作:caramelldansen
+牽手:holding_hands
+二郎腿:crossed_legs
+曲腿至胸:fetal_position
+抬一隻腳:leg_lift
+抬兩隻腳:legs_up
+張腿:spread_legs
+公主抱:princess_carry
+戰鬥姿態:fighting_stance
+顛倒的:upside-down
+向後看:looking_back
+躺著:lying
+趴著:on_stomach
+蹲下:squatting
+跨坐:straddle
+下跪:kneeling
+趴著翹臀:top-down_bottom-up
+翹臀姿勢:bent_over
+四肢趴地:all_fours
+弓身體:arched_back
+坐著:sitting
+正坐:seiza
+割坐:wariza/w-sitting
+側身坐:yokozuwari
+盤腿:indian_style
+抱腿:leg_hug
+身體前驅:leaning_forward
+背對背:back-to-back
+胸對胸:symmetrical_docking
+手對手:symmetrical_hand_pose
+眼對眼（對視）:eye_contact
+擁抱:hug
+膝枕:lap_pillow
+魔鬼身材:curvy
+骨感:skinny
+睡覺:sleeping
+肥胖:plump
+洗澡:bathing
+濕身:wet
+流汗:sweat
+掏耳勺:mimikaki
+站立:standing
+------服裝類物品------
+頭頂光環:halo
+東金帽子:tokin_hat
+迷你禮帽:mini_top_hat
+貝雷帽:beret
+兜帽:hood
+護士帽:nurse_cap
+三重冕:tiara
+皇冠:crown
+發卡:hairband
+髮夾:hairclip
+髮帶:hair_ribbon
+發花:hair_flower
+頭飾:hair_ornament
+蝴蝶結:bowtie
+蝴蝶結髮飾:hair_bow
+女僕頭飾:maid_headdress
+服裝飾品/頭部飾品:bow
+花邊:lace
+絲帶:ribbon
+繃帶:bandage
+眼鏡:glasses
+太陽鏡:sunglasses
+風鏡:goggles
+眼罩:blindfold
+眼罩(獨眼):eyepatch
+面具/眼罩/口罩:mask
+耳環:earrings
+首飾:jewelry
+項圈:collar
+鈴鐺:bell
+頸部飾品:choker
+水手領:sailor_collar
+頸帶:ribbon_choker
+項鍊:necklace
+圍巾:scarf
+領帶:necktie/tie
+臂章:armband
+臂環:armlet
+腕帶:wristband
+鎖鏈:chains
+腕飾:wrist_cuffs
+手套:gloves
+長袖手套:elbow_gloves
+露指手套:fingerless_gloves
+手鍊/手銬:cuffs/shackles
+手銬:handcuffs
+手鐲:bracelet
+手杖:cane
+破爛衣服:torn_clothes
+透明裝:see-through
+聖誕裝:santa
+袖肩分離裝:detached_sleeves
+長袖:long_sleeves
+女用背心:tank_top
+披肩/斗篷/披風:cape
+長袍:robe
+婚紗:wedding_dress
+緊身衣:bodysuit
+連緊衣:bodystocking
+內衣:underwear
+女用貼身內衣褲:lingerie
+吊帶背心:camisole
+露腰上衣:midriff
+睡衣:pajamas
+透明睡衣:babydoll
+衛衣:hoodie
+和服:japanese_clothes
+浴衣:yukata
+唐裝:chinese_clothes
+旗袍:chinadress
+比基尼:bikini
+繫帶式比基尼:side-tie_bikini
+水手服:serafuku
+泳裝:swimsuit
+晚禮服:formal
+制服:uniform
+西裝:suit
+職場製服:business_suit
+學校制服:school_uniform
+學校泳衣:school_swimsuit
+運動服:gym_uniform
+纏胸布:sarashi
+胸衣:bustier
+吊帶胸衣:chemise
+胸罩:bra
+乳貼:latex
+創可貼:bandaid
+緊身褡:corset
+圍裙:apron
+腰帶:belt
+衣帶(和服用):obi
+裙子:skirt
+連衣裙:dress
+百褶裙:pleated_skirt
+迷你裙:miniskirt
+夏日長裙:summer_dress
+燈籠褲:bloomers
+短褲:shorts
+自行車短褲:bike_shorts
+內褲:panties
+沒內褲:no_panties
+三角褲給你看:trefoil
+白色內褲:white_panties
+粉紅內褲:pink_panties
+條紋內褲:striped_panties
+低腰式內褲:lowleg_panties/low_leg_panties
+繫帶式內褲:side-tie_panties/himopan
+丁字褲:thong
+日式丁字褲:fundoshi
+套套:condom
+添加的尾巴:butt_plug
+尿布:diaper
+襪帶:garter_straps
+吊帶襪:garters
+連腰吊帶襪:garter_belt
+短襪:socks
+橫條襪:striped_socks
+泡泡襪:loose_socks
+裹腿:legwear
+褲襪:leggings
+網襪:fishnets
+長襪:kneehighs
+絲襪:stockings
+漁網襪:fishnet_stockings
+連褲襪:pantyhose
+漁網襪:fishnet_pantyhose
+過膝襪:thighhighs
+條紋過膝襪:striped_thighhighs
+白色過膝襪:white_thighhighs
+黑色過膝襪:black_thighhighs
+粉色過膝襪:pink_thighhighs
+損壞了的過膝襪:torn_thighhighs
+日式厚底短襪:tabi
+腿部花邊環:leg_garter
+腿部繫帶:ankle_lace-up
+繫帶靴:cross-laced_footwear
+高跟鞋:high_heels
+瑪麗珍鞋:mary_janes
+女式學生鞋:uwabaki
+拖鞋:slippers
+靴子:boots
+馬靴:knee_boots
+------物品和背景------
+相機:camera
+筷子:chopsticks
+麥克風:microphone
+武器:weapons
+匕首/短劍:dagger
+刀:sword
+鐮刀:scythe
+鞭:whip
+馬鞭:riding_crop
+槍:gun
+手槍:handgun
+魔杖:wand
+箭:arrow
+傘:umbrella
+禦幣:gohei
+札符:ofuda
+陰陽:yin_yang
+燈籠:lantern/lamp
+茶杯:teacup
+香煙:cigarette
+建築:building
+廢墟/遺跡:ruins
+蛋糕:cake
+鯛魚燒:taiyaki
+葡萄酒:wine
+櫻花:cherry_blossoms
+奶油:cream
+冰激凌:ice_cream
+日本酒:sake
+花瓣:flower_petals
+森林/樹:forest
+吉他:guitar
+鋼琴:piano
+便當:obento
+椅子:chair
+掏耳勺:mimikaki
+起皺:crease
+大海:ocean
+落日:sunset
+滿月:full_moon
+五角星:pentagram
+魔法陣:magic_circle
+情人節:valentine
+萬聖節:halloween
+聖誕節:christmas
+———人物畫風———
+黑白:black and white
+———人物樣貌———
+頭髮:hair
+長發:longhair
+短髮:shorthair
+眼睛:eyes
+漸變顏色長發:gradient pink longhair
+漸變顏色眼睛:gradient pink eyes
+粗眉毛:thick eyebrows
+貓尾巴:cat tail
+貓耳朵:cat ears
+動物耳朵:animal ears
+毛茸茸的動物耳朵:animal ear fluff
+劉海:bangs
+兩眼之間的頭髮:hair between eyes
+眉毛後面的頭髮:eyebrows behind hair
+鎖骨:collarbone
+斗篷(要在很前面才有效):cape
+乳房尺寸:small breasts:medium breasts:large breasts
+出汗:sweating
+顏色絲襪(和長絲襪衝突):white stockings:black stockings
+長絲襪:thighhighs
+女僕:maid
+髮帶:ribbon
+愛心眼:heart-shaped pupils
+裸體:nude
+禦姐/JK/辣妹:gyaru
+好看大腿:thighhighs
+肌肉發達:muscular
+陰莖:penis
+天使翅膀:angel wings
+顏色內褲(贈內衣):pink underpants
+肚臍:navel
+連體顏色乳膠衣:black latex bodysuit
+頸部顏色項圈:white collar
+口球:ball gag:gag(bdsm)
+黑色皮膚:dark skin
+撕裂的衣服:torn clothes
+撕裂的褲子:torn legwear
+開襟夾克(配合叉開腿特色):open jacket
+異色瞳:heterochromia_blue_red
+吊襪帶:garter straps
+靴子:boots
+眼罩:blindfold
+流淚:tears
+淫紋:pubic tattoo
+跳蛋:{vibrator}
+———環境樣式———
+在床上:on bed
+色情內容:sex:nsfw:cum
+光線反射:reflection light
+賽博朋克:cyberpunk, city, kowloon, rain
+在地毯上:on carpet
+在瑜伽墊上(它分不清什麼是瑜伽墊，只知道色塊比較大，所以要配合one girl用):on_yoga_mats
+觸手:tentacles
+很多觸手:lot of tentacles
+———人物視角———
+正面視角:pov
+從上到下視角:from_below
+全身:full body
+———人物狀態———
+狗狗式趴:doggystyle
+後入:sex_from_behind:ass_focus:on_backend_cum
+叉開腿:spread leg
+露出腋下:armpits
+口爆:cum_in_mouth
+含著套:condoms_in_mouth
+舔精:cum_on_tongue
+顏射:cum_on_facial
+騎乘位:straddling:girl_on_top
+向前趴:lying
+舉起手:hands up
+舉起手臂:arms up
+爪子手:paw pose
+站立:standing
+行走:walking
+吐舌頭:tongue out
+抬起腿:legs up
+手放背後:hidden hands
+手臂放背後:arms behind back
+裸露的肩膀:bare shoulders
+臉紅:blush
+乳房:breasts
+乳房出來:breasts out
+手指在別人的嘴裡:finger in another's mouth
+高馬尾辮:high ponytail
+大乳房:large breasts
+長發:long hair
+低扎長發:low-tied long hair
+乳頭:nipples
+陰莖:penis
+做愛:sex
+從背後 做愛:sex from behind
+站立性:standing sex
+站立:standing
+X 射線:x-ray
+閉上眼睛:closed eyes
+完全裸體:completely nude
+射精:ejaculation
+抓腿:leg grab
+雙腿向上:legs up
+裸體:nude
+陰莖:penis
+刺穿:piercing
+紫色頭髮:purple hair
+女孩在上面:girl on top
+舌頭:tongue
+吐舌頭:ongue out
+乳房 抓手:breast grab
+從後面抓:grabbing from behind
+白髮:grey hair
+反向直立跨騎:reverse upright straddle
+紅眼睛:red eyes
+黑色夾克:black jacket
+射:cum
+放上身體:cum on body
+放上乳房:cum on breasts
+放上身體:cum on upper body
+開襟夾克:open jacket
+正面:pov
+褲襠:pov crotch
+強姦:rape
+黑色連褲襪:black pantyhose
+金發:blonde hair
+藍眼睛:blue eyes
+連褲襪:pantyhose
+反向女牛仔位置:reverse cowgirl position
+張開雙腿:spread legs
+撕裂的衣服:torn clothes
+撕裂的褲子:torn legwear
+肛門:anal
+屁股:ass
+黑色 緊身褲:black legwear
+緊身連衣褲:bodysuit
+雙穴:double penetration
+反向抓雙腳:reverse suspended congress
+弓背:arched back
+手臂在背後:arms behind back
+手在上面:arms up
+球塞:ball gag
+性虐待:bdsm
+彈跳的乳房:bouncing breasts
+綁定:bound
+綁腳踝:bound ankles
+綁定手臂:bound arms
+綁定手腕:bound wrists
+橫向的畫面:cross-section
+腳向上:facing viewer
+腳向上:feet up
+折疊:folded
+堵嘴:gag
+吊襪帶:garter straps
+內部 射液:internal cumshot
+奴隸:slave
+靴子:boots
+擠奶:milking
+乳頭穿刺:nipple piercing
+乳頭滲透:nipple penetration
+眼罩:blindfold
+乳房 束縛:breast bondage
+機械固定:force-feeding
+觸手機械多次插入:multiple insertions
+性愛機器:sex machine
+脫掉襯衫:shirt removed
+眼淚:tears
+乳房之間 :between breasts
+兩腿之間:between legs
+束縛 腿:bound legs
+綁定手腕:bound wrists
+連環穿孔:linked piercing
+身體前傾:leaning forward
+繩索:rope
+槓鈴穿刺:barbell piercing
+位堵嘴:bit gag
+乳溝鏤空:cleavage cutout
+服裝鏤空:clothing cutout
+觸手性:tentacle_sex
+衣服下的觸手:tentacles_under_clothes
+淫紋:pubic tattoo
+被框住的乳房:framed breasts
+繩索:rope
+振動器:vibrator
+衣服下的振動器:vibrator under clothes
+捆綁在一起:bound together
+肉鎧甲:fanny packing
